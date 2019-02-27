@@ -1,0 +1,9 @@
+matplotlib
+numpy
+pandas
+requests
+tensorboard
+tensorboardX
+torch
+torchvision
+user_agents
